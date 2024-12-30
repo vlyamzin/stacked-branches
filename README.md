@@ -7,3 +7,11 @@ This is the initial commit
 ## Feature two
 
 This feature is more complex and requires some additional changes
+
+Some additional comments
+
+Here I add a list:
+
+- [ ] Item one
+- [ ] Item two
+- [ ] Item three
