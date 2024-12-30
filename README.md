@@ -19,3 +19,5 @@ Here I add a list:
 - [ ] Item five
 
 ### Some fancy banner
+
+Some text after the banner
