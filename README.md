@@ -12,6 +12,8 @@ Some additional comment. Should be comments
 
 Here I add a list:
 
-- [ ] Item one
+- [x] Item one
 - [ ] Item two
 - [ ] Item three
+- [ ] Item four
+- [ ] Item five
