@@ -8,7 +8,7 @@ This is the initial commit
 
 This feature is more complex and requires some additional changes
 
-Some additional comments
+Some additional comment
 
 Here I add a list:
 
